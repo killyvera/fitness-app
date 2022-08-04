@@ -64,7 +64,7 @@ body {
   }
   
   .exercise-card {
-    width: 400px;
+    width: 338px;
     height: 445px;
     background: #fff;
     border-top: 4px solid #FF2625;
@@ -79,7 +79,7 @@ body {
   }
   
   .exercise-card img {
-    height: 326px;
+    height: 344px;
   }
   
   .bodyPart-card {
